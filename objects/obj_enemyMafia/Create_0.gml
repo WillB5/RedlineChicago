@@ -1,0 +1,1 @@
+global.enemySpeed = 3;

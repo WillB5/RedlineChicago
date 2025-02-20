@@ -1,0 +1,2 @@
+global.playerSpeed = 3;
+

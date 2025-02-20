@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"HorseSteppin",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":610.5812,
+  "name":"HorseSteppin",
+  "parent":{
+    "name":"RedlineChicago",
+    "path":"RedlineChicago.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"HorseSteppin.ogg",
+  "type":0,
+  "volume":1.0,
+}

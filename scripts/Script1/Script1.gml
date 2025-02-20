@@ -1,0 +1,1 @@
+function Script1() {	global.playerSpeed = 3;}
