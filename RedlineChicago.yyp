@@ -36,6 +36,7 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"obj_building","path":"objects/obj_building/obj_building.yy",},},
+    {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
     {"id":{"name":"obj_crosshair","path":"objects/obj_crosshair/obj_crosshair.yy",},},
     {"id":{"name":"obj_enemyMafia","path":"objects/obj_enemyMafia/obj_enemyMafia.yy",},},
     {"id":{"name":"obj_mainMenuSpawner","path":"objects/obj_mainMenuSpawner/obj_mainMenuSpawner.yy",},},
